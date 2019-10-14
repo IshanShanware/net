@@ -107,7 +107,7 @@ public class Login extends javax.swing.JFrame {
             }
         });
     }
-
+//good use of library functions but could have been optimised more further by using more inbuilt functions
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
